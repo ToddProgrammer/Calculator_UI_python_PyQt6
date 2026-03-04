@@ -15,7 +15,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Calculator")
-        self.setGeometry(100, 100, 320, 500)
+        self.setGeometry(100, 100, 285, 390)
         self.setWindowIcon(QIcon('icon\icon.png'))
         backspace_button = QPushButton('<-')
         plus_button = (QPushButton('+'))
