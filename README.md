@@ -5,4 +5,4 @@ i tried to recreate the windows 10 calculator.
 
 you can add functions by creating a folder named 'functions' and then in there a file named 'functions.py'
 
-hope that helps have much fun.
+hope that helps have much fun😊.
